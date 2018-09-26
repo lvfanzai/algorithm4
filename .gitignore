@@ -1,0 +1,8 @@
+*.class
+.idea/*
+.DS_Store
+.idea
+/out
+src/edu/princeton/cs/algs4/*.class
+src/algs4-data
+ 
